@@ -318,7 +318,7 @@ elif train_acc < test_acc:
 ```
 
 #### We plot the AUC curve to compare which model performed best
-![AUC Curve](Downloads/Phase 3 project/AUC Curve.PNG)
+![AUC Curve](AUC_Curve.png)
 
 #### Conclusion:
 #### 1. Based on the ROC curve above, decision tree is the best model since it has the hightest AUC
