@@ -324,3 +324,5 @@ elif train_acc < test_acc:
 #### 1. Based on the ROC curve above, decision tree is the best model since it has the hightest AUC
 #### 2. Based on the feature importance done on the decision tree model we noted the following:
 #### The analysis shows that total_daily_charge is the most important predictor of customer churn, followed by customer_service_calls. This indicates that customers with higher daily charges or frequent service calls are more likely to leave the company. Other variables such as total_intl_charge, total_intl_calls, and number_vmail_messages contribute moderately, while total_daily_calls has minimal impact. Overall, spending behavior and customer service interactions are the strongest indicators of churn
+
+![Feature Importance](Feature_importance.PNG)
