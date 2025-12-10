@@ -1,4 +1,4 @@
-<img src="./pexels-selimkrdy-28377957.jpg" width="350" />
+<img src="./pexels-selimkrdy-28377957.jpg" width="600" />
 # Project Problem Overview
 
 ## **SyriaTel**, a leading telecommunications provider, is seeking a predictive solution to help reduce customer churn. The company has tasked me with developing a model that can accurately forecast whether a customer is likely to stay with the service or leave. By identifying patterns in customer behavior, this model will enable SyriaTel to take proactive measures to retain valuable customers and minimize revenue loss due to churn.
